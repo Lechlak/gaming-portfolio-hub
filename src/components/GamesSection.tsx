@@ -3,8 +3,8 @@ import { GameCard } from "./GameCard";
 
 const games = [
   {
-    title: "Fantasy Quest",
-    description: "An epic RPG adventure in a magical realm",
+    title: "Memory Match",
+    description: "A simple matching game for all ages.",
     imageUrl: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800&q=80",
   },
   {

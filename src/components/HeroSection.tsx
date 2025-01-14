@@ -9,11 +9,11 @@ export const HeroSection = () => {
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 animate-fade-up opacity-0" 
               style={{ animationDelay: "200ms" }}>
-            Crafting Mobile Gaming Excellence
+            Crafting Ad-Free Mobile Gaming Excellence
           </h1>
           <p className="text-xl text-white/80 mb-8 animate-fade-up opacity-0"
              style={{ animationDelay: "400ms" }}>
-            We create engaging mobile games that millions of players love worldwide
+            We create engaging mobile games that millions of players love worldwide without ads. 
           </p>
           <Button className="animate-fade-up opacity-0 bg-primary hover:bg-primary/90 text-lg px-8 py-6"
                   style={{ animationDelay: "600ms" }}>

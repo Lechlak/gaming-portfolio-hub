@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { toast } from "sonner";
+import { Link } from "react-router-dom";
 
 export const ContactSection = () => {
   const { register, handleSubmit, reset } = useForm();
@@ -65,6 +66,11 @@ export const ContactSection = () => {
               Send Message
             </Button>
           </form>
+        </div>
+        <div className="mt-12 text-center text-white/60">
+          <Link to="/privacy-policy" className="hover:text-white transition-colors">
+            Privacy Policy
+          </Link>
         </div>
       </div>
     </section>

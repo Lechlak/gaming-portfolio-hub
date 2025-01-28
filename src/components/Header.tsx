@@ -12,7 +12,7 @@ export const Header = () => {
           <a href="#contact" className="text-white/80 hover:text-white transition-colors">Contact</a>
         </nav>
         <Button variant="secondary" className="bg-primary hover:bg-primary/90">
-          View on Google Play (coming sooon)
+          Google Play (coming sooon)
         </Button>
       </div>
     </header>

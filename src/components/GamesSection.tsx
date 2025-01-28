@@ -8,12 +8,12 @@ const games = [
     imageUrl: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800&q=80",
   },
   {
-    title: "Speed Racer",
+    title: "Dots and Boxes",
     description: "High-octane racing action on stunning tracks",
     imageUrl: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=800&q=80",
   },
   {
-    title: "Puzzle Master",
+    title: "Sight Words",
     description: "Brain-teasing puzzles for all ages",
     imageUrl: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80",
   },

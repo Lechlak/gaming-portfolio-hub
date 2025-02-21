@@ -18,8 +18,13 @@ const PrivacyPolicy = () => {
               <h2 className="text-2xl font-semibold text-white mb-4">Introduction</h2>
               <p className="text-white/80">
                 At Lechlak Gaming, we are committed to providing free, ad-free gaming experiences without any in-app purchases. 
-                This Privacy Policy explains how we handle your information when you use our games.
+                This Privacy Policy explains how we handle your information when you use our games:
               </p>
+              <ul className="list-disc pl-6 text-white/80 space-y-2 mt-2">
+                <li>Emoji Memory Match</li>
+                <li>Dots and Boxes</li>
+                <li>Sight Words</li>
+              </ul>
             </section>
 
             <section className="mb-8">

@@ -56,7 +56,7 @@ const PrivacyPolicy = () => {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-white mb-4">Contact Us</h2>
               <p className="text-white/80">
-                If you have any questions about this Privacy Policy, please contact us at LechlakGaming@Gmail.com
+                If you have any questions about this Privacy Policy, please contact us at AndrewLechlak@gmail.com or LechlakGaming@gmail.com
               </p>
             </section>
           </div>
